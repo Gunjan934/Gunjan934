@@ -2,24 +2,20 @@
 
 🎓 CSE '27 | Python & AI/ML Learner
 
-### About Me
-- 💻 Learning Machine Learning and Backend Development.
-- 📊 Interested in Data Analysis and AI/ML.
-- 🚀 Building practical projects and improving my skills.
-
-### Tech Stack
-- **Languages:** Python, SQL
-- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, Excel
-- **Machine Learning:** Scikit-learn
-- **Backend:** Flask, SQLAlchemy, REST APIs
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Jupyter Notebook
-
-### Featured Projects
-- Event Registration System
-- Loan Approval Prediction
-- Sales Data Analysis
-- EV Purchase Prediction
+💡 Passionate about turning data into insights and ideas into practical solutions.
+🐍 **Languages:** Python, SQL
+📊 **Data Analysis:** NumPy, Pandas, Excel, Matplotlib, Seaborn
+🤖 **Machine Learning:** Scikit-learn, Model Training & Evaluation
+⚙️ **Backend Development:** Flask, SQLAlchemy, REST APIs
+🗄️ **Database:** MySQL
+🌱 Currently exploring Machine Learning, model optimization, and backend development.
+🚀 I enjoy building projects that solve real-world problems.
+📌 **Featured Projects:** Loan Approval Prediction | Sales Data Analysis
+🔧 Event Registration System | EV Purchase Prediction
+📈 Always learning, experimenting, and improving my technical skills.
+🎯 Goal: Build impactful projects and grow as a technology professional.
+💼 [LinkedIn](https://www.linkedin.com/in/gunjian66/)
+🌐 Explore my work: [GitHub Repositories](https://github.com/Gunjan934?tab=repositories)
 
 ### Connect With Me
 - LinkedIn-www.linkedin.com/in/gunjan66
