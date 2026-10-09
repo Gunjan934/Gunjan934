@@ -21,7 +21,7 @@
 - **Event Registration System** — Flask, SQLAlchemy, MySQL
 - **Loan Approval Prediction** — Machine Learning Classification
 - **Sales Data Analysis** — Python, NumPy, Pandas, Seaborn
-- **EV Purchase Prediction** — Exploratory Data Analysis and Machine Learning
+- **Car Purchase Prediction** — Exploratory Data Analysis and Machine Learning
 
 ## Currently Learning
 - Machine Learning Algorithms
@@ -29,4 +29,4 @@
 - Backend Development and API Integration
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/gunjan66
