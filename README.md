@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Gunjan! 👋
 
-<!--
-**Gunjan934/Gunjan934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | CSE '27
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning Python, Machine Learning, and Backend Development.
+- 💻 Working with Flask, SQLAlchemy, MySQL, and REST APIs.
+- 📊 Interested in Data Analysis and Machine Learning.
+- 🚀 Building practical projects to improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, Excel
+- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation
+- **Backend Development:** Flask, SQLAlchemy, REST APIs
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## Featured Projects
+- **Event Registration System** — Flask, SQLAlchemy, MySQL
+- **Loan Approval Prediction** — Machine Learning Classification
+- **Sales Data Analysis** — Python, NumPy, Pandas, Seaborn
+- **EV Purchase Prediction** — Exploratory Data Analysis and Machine Learning
+
+## Currently Learning
+- Machine Learning Algorithms
+- Model Evaluation and Hyperparameter Tuning
+- Backend Development and API Integration
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn profile URL here
