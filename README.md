@@ -22,4 +22,4 @@
 - EV Purchase Prediction
 
 ### Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/gunjian66/)
+- LinkedIn-www.linkedin.com/in/gunjan66
