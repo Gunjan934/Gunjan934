@@ -1,32 +1,25 @@
 # Hi, I'm Gunjan! 👋
 
-🎓 Computer Science Engineering Student | CSE '27
+🎓 CSE '27 | Python & AI/ML Learner
 
-## About Me
-- 🌱 Learning Python, Machine Learning, and Backend Development.
-- 💻 Working with Flask, SQLAlchemy, MySQL, and REST APIs.
-- 📊 Interested in Data Analysis and Machine Learning.
-- 🚀 Building practical projects to improve my technical skills.
+### About Me
+- 💻 Learning Machine Learning and Backend Development.
+- 📊 Interested in Data Analysis and AI/ML.
+- 🚀 Building practical projects and improving my skills.
 
-## Technical Skills
-
-- **Programming:** Python, SQL
+### Tech Stack
+- **Languages:** Python, SQL
 - **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, Excel
-- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation
-- **Backend Development:** Flask, SQLAlchemy, REST APIs
+- **Machine Learning:** Scikit-learn
+- **Backend:** Flask, SQLAlchemy, REST APIs
 - **Database:** MySQL
 - **Tools:** Git, GitHub, Jupyter Notebook
 
-## Featured Projects
-- **Event Registration System** — Flask, SQLAlchemy, MySQL
-- **Loan Approval Prediction** — Machine Learning Classification
-- **Sales Data Analysis** — Python, NumPy, Pandas, Seaborn
-- **Car Purchase Prediction** — Exploratory Data Analysis and Machine Learning
+### Featured Projects
+- Event Registration System
+- Loan Approval Prediction
+- Sales Data Analysis
+- EV Purchase Prediction
 
-## Currently Learning
-- Machine Learning Algorithms
-- Model Evaluation and Hyperparameter Tuning
-- Backend Development and API Integration
-
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/gunjan66
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/gunjian66/)
