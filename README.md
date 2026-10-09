@@ -1,21 +1,22 @@
-# Hi, I'm Gunjan! 👋
+# 👋 Hey, I'm Gunjan Kaur!
 
-🎓 CSE '27 | Python & AI/ML Learner
+### 💻 CSE Student '27 | Python Developer | AI/ML Enthusiast
 
-💡 Passionate about turning data into insights and ideas into practical solutions.
-🐍 **Languages:** Python, SQL
-📊 **Data Analysis:** NumPy, Pandas, Excel, Matplotlib, Seaborn
-🤖 **Machine Learning:** Scikit-learn, Model Training & Evaluation
-⚙️ **Backend Development:** Flask, SQLAlchemy, REST APIs
-🗄️ **Database:** MySQL
-🌱 Currently exploring Machine Learning, model optimization, and backend development.
-🚀 I enjoy building projects that solve real-world problems.
-📌 **Featured Projects:** Loan Approval Prediction | Sales Data Analysis
-🔧 Event Registration System | EV Purchase Prediction
-📈 Always learning, experimenting, and improving my technical skills.
-🎯 Goal: Build impactful projects and grow as a technology professional.
-💼 [LinkedIn](https://www.linkedin.com/in/gunjian66/)
-🌐 Explore my work: [GitHub Repositories](https://github.com/Gunjan934?tab=repositories)
+I'm passionate about **Python, Machine Learning, and Data Analysis**. I enjoy exploring data, building predictive models, and developing practical solutions through technology. 🚀
+
+### 📌 Featured Projects
+
+- 🤖 **Loan Approval Prediction** — Machine Learning classification
+- 📊 **Sales Data Analysis** — Data exploration and visualization
+- ⚙️ **Event Registration System** — Flask, SQLAlchemy, and MySQL
+- 🚗 **Car Price Prediction** — Exploratory Data Analysis and ML
+
+### 🌱 Currently Learning
+Machine Learning | Model Evaluation | Backend Development | API Integration
+
+### 🎯 My Goal
+Building meaningful projects, strengthening my technical skills, and growing in AI/ML.
 
 ### Connect With Me
 - LinkedIn-www.linkedin.com/in/gunjan66
+✨ *Learning every day. Building one project at a time.*
