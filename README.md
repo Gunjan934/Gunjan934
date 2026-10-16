@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gunjan Kaur!
+# 👋 Hey, I'm Gunjan!
 
 🎓 Computer Science Engineering Student | CSE '27
 💡 Passionate about Python, Machine Learning, and Data Analysis. I enjoy exploring data and building practical solutions using technology.
